@@ -17,11 +17,11 @@ repo: https://github.com/rlue/jekyll-solana # used in footer
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
-  - name: 微博
+  - name: Weibo
     url: https://weibo.com/u/2263652812?is_hot=1
     icon: /i/icons.svg#posts # icons should be 24x24 px.
-  - name: Projects
-    url: /projects
+  - name: Idols
+    url: /Idols
     icon: /i/icons.svg#portfolio
   - name: Personal GitHub
     url: https://github.com/miyomi111
@@ -34,12 +34,12 @@ nav_menu:
     icon: /i/icons.svg#email
 
 # Objects listed here will appear on the /projects.html page.
-projects:
-  - title: Solana
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: https://github.com/rlue/jekyll-solana
-    role: Creator
-    category: Frontend Dev
+Idols:
+  - title: 周杰伦
+    teaser: 周杰伦（Jay Chou），1979年1月18日出生于台湾省新北市，华语男歌手、词曲创作人、演员、MV及电影导演、编剧及制作人。
+    url: https://weibo.com/thejaycn?is_hot=1
+    role: Singer
+    category: First
   - title: Cortana
     teaser: A talking robot. Now available on Google Play?
     url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
