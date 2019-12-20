@@ -17,14 +17,14 @@ repo: https://github.com/rlue/jekyll-solana # used in footer
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
-  - name: Posts
-    url: /
+  - name: 微博
+    url: https://weibo.com/u/2263652812?is_hot=1
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: Projects
     url: /projects
     icon: /i/icons.svg#portfolio
-  - name: GitHub
-    url: https://github.com/rlue/
+  - name: Personal GitHub
+    url: https://github.com/miyomi111
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
