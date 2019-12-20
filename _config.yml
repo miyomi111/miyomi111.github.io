@@ -33,7 +33,7 @@ nav_menu:
     domain: github.com  # are separated in case bots crawl GitHub repos, too.)
     icon: /i/icons.svg#email
 
-# Objects listed here will appear on the /projects.html page.
+# Objects listed here will appear on the /Idols.html page.
 Idols:
   - title: 周杰伦
     teaser: 周杰伦（Jay Chou），1979年1月18日出生于台湾省新北市，华语男歌手、词曲创作人、演员、MV及电影导演、编剧及制作人。
