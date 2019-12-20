@@ -6,7 +6,7 @@ category: 简历
 
 
 
-​                                                 ![](https://wx3.sinaimg.cn/mw690/007awXQDly1ga3ag0tqrvj30ay0g7dh9.jpg)
+​                                                 ![](https://wx2.sinaimg.cn/mw690/007awXQDly1ga3aonw0pnj30ax0b475e.jpg)
 
 ###                                                               杨敏
 
