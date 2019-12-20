@@ -1,11 +1,10 @@
 ---
-title: Welcome to Solana
-teaser: These sample posts are provided as a template for creating your own content.
-category: intro
-tags: [markdown, workflow, foss]
+title: Welcome to yomi
+teaser: nice to meet you!
+category: introduction
+tags: [patience, postive, loving]
 ---
 
-GitHub Pages uses a Markdown engine called <dfn>kramdown</dfn> for formatting text posts. kramdown is a superset of Markdown, meaning:
+**My name is YangMin, my major is English. Once worked as an English teacher and an English teaching assistant in a training institution. Have a good command of the content and pace of the class, and can clearly understand the important and difficult points of classroom teaching. Treat students more patient, have affinity.Serious and responsible to work, hard-working, good at learning. **
 
-1. anything that’s valid Markdown is also valid kramdown, and
-2. it provides and strictly specifies a number of features that are not available in Markdown.[^1] 
+![](https://wx1.sinaimg.cn/mw690/007awXQDly1ga2c89enhvj32c02c0hdv.jpg)
